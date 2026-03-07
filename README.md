@@ -2,7 +2,7 @@
 
 The BEST randomized on Streamlit. A powerful, interactive, and customizable randomizer built with [Streamlit](https://streamlit.io).
 
-This [app](https://custom-randomizer.streamlit.app/) allows you to create weighted random selections, draft lists, lottery-style selections, and even generate Power Ball numbers — all in one place!  
+This [app](https://the-randomizer.streamlit.app/) allows you to create weighted random selections, draft lists, lottery-style selections, and even generate Power Ball numbers — all in one place!  
 
 👉 [Subscribe to the Guide](https://www.youtube.com/@TheBOLGuide) for tutorials!
 
